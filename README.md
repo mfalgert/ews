@@ -2,7 +2,7 @@
 Master Thesis Project - Early Warning System (EWS)
 
 Requirements:
-Mininet 2.1.0 network emulator + Mininext extension, Quagga router daemon 0.99+, Paris-traceroute, PyBGPDump 2.0
+Mininet 2.1.0 network emulator + Mininext extension, Quagga router daemon 0.99+, Paris-traceroute, and PyBGPDump 2.0. 
 
 How to run:
 Use boot.sh to start mininet with a preconfigured topology. 
