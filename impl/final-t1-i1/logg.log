@@ -1,0 +1,36 @@
+2016-12-14 16:57:00,259 
+10.0.13.10-1300-Traceback (most recent call last):
+  File "forwarder_zebra.py", line 78, in <module>
+    if line_parsed[3] == "RTM_DELROUTE":
+IndexError: list index out of range
+
+2016-12-14 16:57:00,259 
+10.0.13.10-1300-Traceback (most recent call last):
+  File "forwarder_zebra.py", line 78, in <module>
+    if line_parsed[3] == "RTM_DELROUTE":
+IndexError: list index out of range
+
+2016-12-14 16:57:00,262 
+10.0.13.10-1300-Traceback (most recent call last):
+  File "forwarder_zebra.py", line 78, in <module>
+    if line_parsed[3] == "RTM_DELROUTE":
+IndexError: list index out of range
+
+2016-12-14 16:57:00,262 
+10.0.13.10-1300-Traceback (most recent call last):
+  File "forwarder_zebra.py", line 78, in <module>
+    if line_parsed[3] == "RTM_DELROUTE":
+IndexError: list index out of range
+
+2016-12-14 16:57:00,263 
+10.0.13.10-1300-Traceback (most recent call last):
+  File "forwarder_zebra.py", line 78, in <module>
+    if line_parsed[3] == "RTM_DELROUTE":
+IndexError: list index out of range
+
+2016-12-14 16:57:00,263 
+10.0.13.10-1300-Traceback (most recent call last):
+  File "forwarder_zebra.py", line 78, in <module>
+    if line_parsed[3] == "RTM_DELROUTE":
+IndexError: list index out of range
+
